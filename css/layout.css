@@ -50,3 +50,7 @@
 [class*="col-"]{
   margin-left: 2px;
 }
+
+.first{
+  margin-left: 0px;
+}
